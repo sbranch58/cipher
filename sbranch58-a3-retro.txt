@@ -1,0 +1,19 @@
+Good thing: What successes did you have? What went well?
+I think one success I had when doing this homework assignment is when I got stuck on how to continue with the cipher, I kept going rather than just completely giving up, like
+I normally do. I also tried to break things up into parts rather than immediately going to trying to decrypt the longer message for homwork. I tried using the pad and encrpyted 
+message for "Rally Day!" so I had a smaller scale to work with and already had the pad and answer to so I would know if I'm right.
+I tend to only try to get the end result and if I get stuck I tend to stop and not want to start again because I'm worried of being wrong, or I stare at my 
+code for so long after being tired and just stressing myself out. I think I spent enough time continuing when I got stuck, but also taking short breaks so I 
+can bring in new thoughts for my code. 
+
+Bad thing: What was frustrating? What went poorly?
+I think one thing that went poorly is that even though for this assignment we were encouraged to work together, I just did things on my own because I didn't 
+know who to work with and how to plan it because of other group assignments for the week and being overwhelmed with meeting people. I feel like peer codig can help but I always worry about being behind 
+or holding my partner back so I tend to avoid it and try to work on my own. So I guess for me, it's frustrating that I can't push myself to work with someone out 
+of fear of being inadequate. 
+
+Better thing: What could you do in response?
+I think one better thing I could do is put more trust myself instead of not asking someone if they want to work together until it is too late. I don't think 
+it will be an immediate thing, but I hope to get better at peer programming and coding with others by actually pushing myself to do so rather than thinking 
+I don't know what to do and I would bother others by asking to work together. I'm trying to push myself to ask fr help more by going to TA hours more frequently 
+but another good way would be working with others. 
