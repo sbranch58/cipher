@@ -19,4 +19,7 @@ def test_generatePad_random2():
     assert generatePad("asdfghjnhbvvomafibhfq") != generatePad("asdfghjnhbvvomafibhfq")
 
 def test_decipher():
-    assert decipher("encrypted-message.txt", "pad.txt") == readFile("sbranch58-decrypted-message.txt")
+    assert decipher(readFile("encrypted-message.txt"), readFile("pad.txt")) == readFile("sbranch58-decrypted-message.txt")
+
+def test_encipher():
+    assert encipher(readFile("sbranch58-decrypted-message.txt"), readFile("pad.txt")) == readFile("encrypted-message.txt")

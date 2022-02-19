@@ -39,9 +39,9 @@ def readFile(filename):
         return text
 
 #writes the message made in a file 
-def writeMessage(message):
+def writeMessage(text):
     with open("secret_" + newfile + ".txt", "a+") as file:
-        file.write(message)
+        file.write(text)
         file.close()
 
 #writes pad into file (had to make two separate functions or else it wrote the pad and message all in one file)
@@ -174,16 +174,16 @@ def encipher(message, pad):
 #print(type(decipher("encrypted-message.txt", "pad.txt")))
 
 newfile = time.strftime("%Y-%b-%d__%H_%M_%S",time.localtime())
-message = input("Please input a message: ")
-message = readFile(message)
-askpad = input("Please input 1 to generate a pad or 0 to to enter your own pad: ")
-if askpad == '1':
-       pad = generatePad(message)
-elif askpad == '0':
-    pad = input("Please input the pad: ")
-    pad = readFile(pad)
+#message = input("Please input a message: ")
+#message = readFile(message)
+#askpad = input("Please input 1 to generate a pad or 0 to to enter your own pad: ")
+#if askpad == '1':
+       #pad = generatePad(message)
+#elif askpad == '0':
+    #pad = input("Please input the pad: ")
+    #pad = readFile(pad)
 
-encipher(message, pad)
+#encipher(message, pad)
 
 '''
 Links/ Resources Used
