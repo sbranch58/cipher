@@ -1,19 +1,20 @@
 Good thing: What successes did you have? What went well?
-I think one thing that was successful was that I tried to clean up my code. I had a lot of lines of code commented out and it made the file longer so it was hard to 
-navigate things and keep track at my line of thought since if I was looking  for a comment describing a function I would have to go through a bunch of comments 
+I think one thing that was successful was that I tried to clean up my code more. I had a lot of lines of code commented out and it made the file longer so it was hard to 
+navigate things and keep track at my line of thought since if I was looking for a comment describing a function I would have to go through a bunch of comments 
 with loops, print statements, or trying certain shifts for the pad and message. I left all the comments there because I wanted be able to look at my old code 
 but didn't want to make a new file, so I'm hoping using git will help me with beig able to look back on my old code without using a bunch of comments or 
 making a bunch of files. 
 
 Bad thing: What was frustrating? What went poorly?
 One thing that was frustrating was when I was making the test cases for my encipher and decipher functions, I realized I didn't have any paramaters 
-for the function because I asked the user for inputs within the functions and when I went to Waka's TA hours, I realized I read the assignment wrong
-and completely glossed over it saying the functions needed two inputs so I had to spend time reworking my code. It felt frustrating becuase this is an 
-issue that could have been fixed if I read the assignment details more closely. I guess a plus of the situation is it made me realize how I need to 
-reorganize my code and leave more comments because it was hard to navigate where things were. 
+for the functions because I asked the user for inputs within the functions. When I went to Waka's TA hours, I realized I read the assignment wrong
+and completely glossed over it saying the functions needed two inputs, so I had to spend time reworking my code and test cases. It felt frustrating becuase this is an 
+issue that could have been fixed if I read the assignment details more closely. I guess a plus of the situation is it made me realize how I needed to 
+reorganize my code and leave more comments on the functions or ways of finding them better, like putting functions that come first at the top, 
+because it was hard to navigate where things were when I needed to make changes. 
 
 Better thing: What could you do in response?
-I'm going to keep reading the assignment details more closely and check them while I work rather than once at the beginning. I feel like I would have made 
+I'm going to read the assignment details more closely and check them while I work rather than once at the beginning. I feel like I would have made 
 things easier on myself if I would have just checked the details more closely because I spent a lot of time trying to get test cases to work with a function 
-I didn't realize had no inputs so it was a mess and made me worried about the last assignment rather than this one. So oe thing I will do bettter next 
+I didn't realize had no inputs so it was a mess trying to debug since it was just wrong and made me worried about the last assignment rather than focusing on this one. So something I will do bettter next 
 time is keeping a comment with any function or program descriptions I need so I can be sure I'm on the right track. 
